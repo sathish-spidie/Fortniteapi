@@ -1,2 +1,0 @@
-# Fortniteapi
-Created with CodeSandbox
